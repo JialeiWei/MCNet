@@ -48,7 +48,7 @@ This will train the MCNet model on the training set (GRRT_dataset/train) and eva
 Once the model is trained, you can evaluate it using:
 
 ```
-python test_MCnet.py
+python test_MCNet.py
 ```
 
 This will compute the $R^2$ score for the trained model and save the results.
