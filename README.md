@@ -6,6 +6,8 @@ This repository contains the code and datasets used for training the MCNet model
 
 MCNet is a deep learning framework for black hole image parameter regression, combining multi-scale feature extraction and cosine annealing optimization to enhance the accuracy of parameter predictions. This repository includes code for training and testing the model on the GRRT-simulated datasets, along with instructions for using the provided dataset and reproducing results from the paper.
 
+This work is currently under review for submission to **The Visual Computer** journal.
+
 # **Dataset**
 
 The dataset used in this repository is the GRRT-simulated dataset, which is organized as follows:
